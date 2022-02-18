@@ -1,7 +1,7 @@
 # Coversational AI using NLP 
 To use this bot, user need to to input City name and API KEY from https://openweathermap.org/api. Just sign up and get API KEY for free.  
 # Things can do with this bot :
-This AI will response in both text and voice. 
+This AI will response in both text and voice.    
 IF "hello" include in user's speech, AI will response randomly with one of these responses:"How are you!", "How’s it going?", "How are you doing", "Whats up"    
 IF "time" include in user's speech, AI will repsonse the current time (12 hours time format)    
 If "today" include in user's speech, AI will response the current date (mm/dd/yyyy)    
