@@ -5,7 +5,12 @@ To use this bot, user need to to input City name and API KEY from https://openwe
 2. SpeechRecognition is library for performing speech recognition, with support for several engines and APIs, online and offline.  
 3. I used random choice in Numpy to give user different responses even same command.    
 4. Data and Datetime to import currect date and time     
-5. Requests to receive data from API     
+5. Requests to receive data from API    
+# Demonstration : 
+
+
+
+
 <img src=https://www.interactions.com/wp-content/uploads/2019/11/conversational_ai_graphics_svg_version_graphic_1.svg>  
 Today’s businesses are looking to provide customers with improved experiences while decreasing service costs—and they’re quickly learning that chatbots and conversational AI can facilitate these goals. By 2024, experts say the global chatbot market will reach $9.4 million     
 What customer service leaders may not understand, however, is which of the two technologies could have the most impact on their buyers and their bottom line. Learn the difference between chatbot and conversational AI functionality so you can determine which one will best optimize your internal processes and your customer experience (CX).  
@@ -17,4 +22,4 @@ Conversational AI and other AI solutions aren’t going anywhere in the customer
 # Source :   
 https://www.zendesk.com/blog/chatbot-vs-conversational-ai/  
 https://www.interactions.com/conversational-ai/   
-# Demonstration : 
+
