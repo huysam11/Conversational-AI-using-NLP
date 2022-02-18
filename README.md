@@ -4,12 +4,12 @@ To use this bot, user need to to input City name and API KEY from https://openwe
 This AI will response in both text and voice.    
 1. IF "hello" include in user's speech, AI will response randomly with one of these responses:"How are you!", "How’s it going?", "How are you doing", "Whats up"    
 2. IF "time" include in user's speech, AI will repsonse the current time (12 hours time format)    
-3. If "today" include in user's speech, AI will response the current date (mm/dd/yyyy)    
-4. If "thank" include in user's speech, AI will response randomly with one of these responses:"you're welcome!", "anytime!", "no problem!", "cool!", "I'm here if you need me!", "mention not"   
-5. If user does not say anything, AI will reponse " I can't hear you, try again"   
-6. If "weather" include in user's speech, AI will get information WeatherAPI and response the current weather of a specific city that user input in "CITY"  
+3. IF "today" include in user's speech, AI will response the current date (mm/dd/yyyy)    
+4. IF "thank" include in user's speech, AI will response randomly with one of these responses:"you're welcome!", "anytime!", "no problem!", "cool!", "I'm here if you need me!", "mention not"   
+5. IF user does not say anything, AI will reponse " I can't hear you, try again"   
+6. IF "weather" include in user's speech, AI will get information WeatherAPI and response the current weather of a specific city that user input in "CITY"  
 7. IF "bye" include in user's speech, AI will response randomly one of these responses:"Tata", "Have a good day", "Bye", "Goodbye", "Hope to meet soon", "peace out!"    
-8. If user say something that are not listed above, AI will response :"Sorry I dont have answer for that question! Please try another question"    
+8. IF user say something that are not listed above, AI will response :"Sorry I dont have answer for that question! Please try another question"    
   
 # Libraries that I used :   
 1. Pyttsx3 is a text-to-speech conversion library in Python.   
