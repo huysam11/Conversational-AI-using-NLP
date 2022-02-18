@@ -6,5 +6,6 @@ To use this bot, user need to to input City name and API KEY from https://openwe
 3. I used random choice in Numpy to give user different responses even same command.  
 4. Data and Datetime to import currect date and time   
 5. Requests to receive data from API  
+https://www.interactions.com/wp-content/uploads/2019/11/conversational_ai_graphics_svg_version_graphic_1.svg
  
 
