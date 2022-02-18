@@ -1,6 +1,17 @@
 # Coversational AI using NLP 
-To use this bot, user need to to input City name and API KEY from https://openweathermap.org/api. Just sign up and get API KEY for free.    
-# Libraries that I used : 
+To use this bot, user need to to input City name and API KEY from https://openweathermap.org/api. Just sign up and get API KEY for free.  
+# Things can do with this bot :
+This AI will response in both text and voice. 
+IF "hello" include in user's speech, AI will response randomly with one of these responses:"How are you!", "How’s it going?", "How are you doing", "Whats up"    
+IF "time" include in user's speech, AI will repsonse the current time (12 hours time format)    
+If "today" include in user's speech, AI will response the current date (mm/dd/yyyy)    
+If "thank" include in user's speech, AI will response randomly with one of these responses:"you're welcome!", "anytime!", "no problem!", "cool!", "I'm here if you need me!", "mention not"   
+If user does not say anything, AI will reponse " I can't hear you, try again"   
+If "weather" include in user's speech, AI will get information WeatherAPI and response the current weather of a specific city that user input in "CITY"  
+IF "bye" include in user's speech, AI will response randomly one of these responses:"Tata", "Have a good day", "Bye", "Goodbye", "Hope to meet soon", "peace out!"    
+If user say something that are not listed above, AI will response :"Sorry I dont have answer for that question! Please try another question"    
+  
+# Libraries that I used :   
 1. Pyttsx3 is a text-to-speech conversion library in Python.   
 2. SpeechRecognition is library for performing speech recognition, with support for several engines and APIs, online and offline.  
 3. I used random choice in Numpy to give user different responses even same command.    
