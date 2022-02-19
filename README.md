@@ -20,15 +20,7 @@ This AI will response in both text and voice.
 # What is conversational AI?  
 Conversational AI refers to technologies that can recognize and respond to speech and text inputs. In customer service, this technology is used to interact with buyers in a human-like way. The interaction can occur through a bot in a messaging channel or through a voice assistant on the phone. From a large set of training data, conversational AI helps deep learning algorithms determine user intent and better understand human language.  
 # Demonstration :   
-Posting videos .... 
-
-
-
 https://user-images.githubusercontent.com/99052999/154788491-66359688-f98d-43c2-8440-c9dc64914435.mp4
-
-
-
-
 
 # Approximately $12 billion in retail revenue will be driven by conversational AI in 2023.  
 Today’s businesses are looking to provide customers with improved experiences while decreasing service costs—and they’re quickly learning that chatbots and conversational AI can facilitate these goals. By 2024, experts say the global chatbot market will reach $9.4 million      
