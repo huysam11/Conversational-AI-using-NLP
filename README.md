@@ -10,7 +10,7 @@ This AI will response in both text and voice.
 6. IF "weather" include in user's speech, AI will get information WeatherAPI and response the current weather of a specific city that user input in "CITY"  
 7. IF "bye" include in user's speech, AI will response randomly one of these responses:"Tata", "Have a good day", "Bye", "Goodbye", "Hope to meet soon", "peace out!"    
 8. IF user say something that are not listed above, AI will response :"Sorry I dont have answer for that question! Please try another question"    
-  https://raw.githubusercontent.com/huysam11/Conversational-AI-with-NLP/main/2022-02-19_00-52-53.mp4
+  
 # Libraries that I used :   
 1. Pyttsx3 is a text-to-speech conversion library in Python.   
 2. SpeechRecognition is library for performing speech recognition, with support for several engines and APIs, online and offline.  
@@ -21,6 +21,10 @@ This AI will response in both text and voice.
 Conversational AI refers to technologies that can recognize and respond to speech and text inputs. In customer service, this technology is used to interact with buyers in a human-like way. The interaction can occur through a bot in a messaging channel or through a voice assistant on the phone. From a large set of training data, conversational AI helps deep learning algorithms determine user intent and better understand human language.  
 # Demonstration :   
 Posting videos .... 
+
+
+
+https://user-images.githubusercontent.com/99052999/154788491-66359688-f98d-43c2-8440-c9dc64914435.mp4
 
 
 
